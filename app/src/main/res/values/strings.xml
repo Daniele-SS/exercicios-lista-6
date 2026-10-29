@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pokédex</string>
+    <string name="search_placeholder">Nome ou ID</string>
+    <string name="search_clear">Limpar pesquisa</string>
+    <string name="layout_show_list">Exibir em lista</string>
+    <string name="layout_show_grid">Exibir em grade</string>
+    <string name="back">Voltar</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="empty_search">Nenhum Pokémon encontrado para \"%1$s\"</string>
+    <string name="error_network">Não foi possível conectar à PokéAPI. Verifique sua internet.</string>
+    <string name="error_server">A PokéAPI retornou um erro (%1$d).</string>
+    <string name="error_not_found">Pokémon não encontrado.</string>
+    <string name="error_unknown">Ocorreu um erro inesperado.</string>
+    <string name="about">About</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="abilities">Abilities</string>
+    <string name="base_stats">Base Stats</string>
+    <string name="evolutions">Evoluções</string>
+    <string name="no_evolutions">Este Pokémon não possui evoluções nem involuções.</string>
+    <string name="weight_value">%1$.1f kg</string>
+    <string name="height_value">%1$.1f m</string>
+</resources>
